@@ -1,0 +1,26 @@
+Các kí tự đặc biệt tồn tại trong đoạn văn là không nên
+Google Cloud Speech-to-Text API: Cung cấp các công cụ mạnh mẽ để chuyển đổi âm thanh thành văn bản với hiệu suất cao và hỗ trợ nhiều ngôn ngữ và định dạng âm thanh.
+Mặc dù không phải là một đề xuất độc đáo, nghiên cứu này mong muốn đóng góp vào lĩnh vực ASR bằng cách tạo ra một hệ thống linh hoạt và dễ sử dụng hơn trong việc nhận dạng giọng nói. Sự kết hợp giữa mô hình âm thanh và mô hình ngôn ngữ được đề xuất với mong muốn giảm lỗi nhận dạng và cải thiện khả năng xử lý ngôn ngữ trong các tình huống thực tế. Mặc dù đây chỉ là một bước tiến nhỏ, hy vọng rằng phương pháp này có thể mang lại một sự cải thiện nhỏ trong lĩnh vực đầy thách thức này.
+Ngôi trường em nằm ở giữa con phố tấp nập. Đi từ xa đã nhìn thấy ngay ngôi trường nổi bật với hàng rào sơn trắng cùng hai cây phượng vĩ cao lớn như lính gác oai phong. Trường em gồm có ba dãy nhà cao tầng xếp thành hình chữ U, bao lấy sân trường rộng rãi ở chính giữa. Ba dãy nhà đều cao 5 tầng, mỗi tầng sẽ có cầu thang thông qua nhau, nối liền ba dãy. Nhờ vậy, dù nắng hay mưa, chúng em cũng dễ dàng di chuyển qua lại. Dãy nhà ở bên tay trái là nhà hiệu bộ và các phòng họp của thầy cô. Hai tầng dưới của dãy nhà này là thư viện và phòng đọc sách. Hai dãy nhà còn lại là nơi các khối lớp học tập. Tầng 1 của dãy bên phải là căn-tin cho chúng em ăn uống mỗi ngày. Còn tầng 1 dãy chính giữa là các phòng tin học, âm nhạc. Trên sân trường em có rất nhiều cây bàng cao lớn, tỏa bóng mát rượi. Em thích nhất là vào mùa thu, lá bàng rơi rụng đẹp như phim Hàn Quốc. Các thầy cô giáo của em rất hiền lành và thân thiện. Lúc nào cũng quan tâm chỉ bảo chúng em từng chút một, giống như người cha, người mẹ thứ hai của chúng em.
+chính xác rồi kk
+chỉ bằng cách luôn nỗ lực thì cuối cùng bạn mới được đền đáp
+các đoạn văn bản chứa các kí tự đặc biệt
+các đoạn văn bản được trình bày một cách rất khoa học
+họ chào nhau cười nói hô hố rồi nhảy lên xe máy Phóng đi
+máy sào ruộng của gia đình ông đành bỏ hoang cho cỏ mọc
+một chuyến du lịch dã ngoại tại Bò Cạp Vàng
+một quốc gia công nghiệp phát triển nằm ở trung tâm châu lục với nguồn tài nguyên dồi dào
+quà năm mới
+quản lý văn bản thông thường
+test a little bit
+trong khi vẫn còn rất nhiều người trôi dạt trên các thuyền cứu sinh
+trong số các quốc gia công nghiệp phát triển
+tôi muốn cải thiện vốn từ vựng tiếng anh của mình thật tốt và sẽ cố gắng hết sức để làm điều đó
+vip pro quá hihi
+vip pro thật
+vui lòng tìm hiểu
+vui lòng điền thêm thông tin
+vui thật đó
+vậy là tốt rồi
+Để đảm bảo rằng tệp QuanliVanBan.txt được tạo ra nếu nó chưa tồn tại trong chương trình của bạn, bạn có thể thực hiện kiểm tra trước khi đọc hoặc ghi vào tệp
+Ngôi trường của em nằm ở giữa con phố tấp nập. Đi từ xa đã nhìn thấy ngay ngôi trường nổi bật với hàng rào sơn trắng cùng hai cây phượng vĩ cao lớn như lính gác oai phong. Trường em gồm có ba dãy nhà cao tầng xếp thành hình chữ U, bao lấy sân trường rộng rãi ở chính giữa. Ba dãy nhà đều cao 5 tầng, mỗi tầng sẽ có cầu thang thông qua nhau, nối liền ba dãy. Nhờ vậy, dù nắng hay mưa, chúng em cũng dễ dàng di chuyển qua lại. Dãy nhà ở bên tay trái là nhà hiệu bộ và các phòng họp của thầy cô. Hai tầng dưới của dãy nhà này là thư viện và phòng đọc sách. Hai dãy nhà còn lại là nơi các khối lớp học tập. Tầng 1 của dãy bên phải là căn-tin cho chúng em ăn uống mỗi ngày. Còn tầng 1 dãy chính giữa là các phòng tin học, âm nhạc. Trên sân trường em có rất nhiều cây bàng cao lớn, tỏa bóng mát rượi. Em thích nhất là vào mùa thu, lá bàng rơi rụng đẹp như phim Hàn Quốc. Các thầy cô giáo của em rất hiền lành và thân thiện. Lúc nào cũng quan tâm chỉ bảo chúng em từng chút một, giống như người cha, người mẹ thứ hai của chúng em.
