@@ -18,7 +18,6 @@ from pydub import AudioSegment
 import time
 from PIL import Image, ImageFilter, ImageTk
 
-
 root=Tk()
 robot_mount=pyttsx3.init()
 voices = robot_mount.getProperty('voices')
@@ -27,11 +26,12 @@ arr_vanban=read()
 
 
 def Thoat():
-    robot_mount.say("Bạn có chắc chắn muốn thoát chương trình hay không")
-    robot_mount.runAndWait()
+    #robot_mount.say("Bạn có chắc chắn muốn thoát chương trình hay không")
+    #robot_mount.runAndWait()
     result=messagebox.askokcancel("Thông báo","Bạn có chắc chắn muốn thoát chương trình")    
     if(result):
-          root.destroy()
+        root.withdraw()
+          
 def NhanDienAmThanh():
     robot_ear=sr.Recognizer()
     robot_mount.say("Xin chào, tôi có thể giúp gì cho bạn")
@@ -389,5 +389,5 @@ Label(root).grid(row=6)
 button.grid(row=7)
 Label(root).grid(row=8)
 button_1.grid(row=9)
-root.mainloop()
+#root.mainloop()
 
